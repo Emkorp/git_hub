@@ -1,0 +1,10 @@
+Khomich 55000
+Buz 19000
+Vladychenko 18000
+Grozd 23000
+Mech 25000
+Chech 15000
+Brown 13000
+Depp 45000
+Pitt 1000000
+Giro 13000
